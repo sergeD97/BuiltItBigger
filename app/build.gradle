@@ -40,7 +40,7 @@ android {
             versionName "1.0-free"
         }
         paid {
-            dimension 'env';
+            dimension 'env'
             applicationId "com.udacity.gradle.builditbigger.paid"
             versionName "1.0-paid"
         }
